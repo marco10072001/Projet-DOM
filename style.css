@@ -1,0 +1,18 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#color-box {
+    width: 150px;
+    height: 150px;
+    background-color: #D3D3D3;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#change-color-btn {
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
